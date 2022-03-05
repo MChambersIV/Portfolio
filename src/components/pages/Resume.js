@@ -4,9 +4,28 @@ function Resume() {
     return (
         <div className="bg-dark text-light">
          
-          
-          <a className="link-danger" href="https://drive.google.com/file/d/1zWUbt27l-IwGQGAYzvlKaHQCopJl1Und/view?usp=sharing">Resume</a>
-        
+          <p>I'm proficient in: </p>
+        <ul>
+            <li>
+            HTML
+            </li>
+            <li>
+            CSS
+            </li>
+            <li>
+            JavaScript
+            </li>
+            <li>
+            SQL
+            </li>
+            <li>
+            NoSQL
+            </li>
+            <li>
+            React
+            </li>
+        </ul>
+        <a className="link-danger" href="https://drive.google.com/file/d/1zWUbt27l-IwGQGAYzvlKaHQCopJl1Und/view?usp=sharing">Resume .PDF</a>
         </div>
     )
 }
