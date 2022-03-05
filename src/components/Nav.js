@@ -19,6 +19,11 @@ export default function Nav({ changePage }) {
           Contact Me
         </a>
       </li>
+      <li className="nav-item">
+        <a href="#resume" onClick= { () => changePage('Resume') } className="nav-link">
+          Resume
+        </a>
+      </li>
     </ul>
   );
 }

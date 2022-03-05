@@ -2,12 +2,17 @@ import React from "react";
 
 function Footer() {
     return (
-        <article class="border-top" id="contact">
-            <h2>Contact Me</h2>
-             <p class="abme">Email: notmyrealemail@gmail.com</p>
-                <p class="abme">Phone Number: (000) 000-0000</p>
-            <a class="nav-link link-light active" aria-current="page" href="#top">Return to Top</a>
-        </article>
+        <div className="nav dark">
+        
+          <div className="nav-active">Find Me On :</div>
+          
+          <a className="nav-link" href="https://linkedin.com/in/millard-chambers">LinkedIn</a>
+          
+          <a className="nav-link" href="https://github.com/MChambersIV">GitHub</a>
+          
+          <a className="nav-link" href="https://medium.com/@chambersm025">Medium</a>
+        
+        </div>
     )
 }
 
