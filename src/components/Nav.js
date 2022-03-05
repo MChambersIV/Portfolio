@@ -1,29 +1,24 @@
-import React from "react";
-import Home from "./pages/Home";
-import Header from "./Header";
+import React from 'react';
 
-function Nav() {
-    return (
-      <div>
-        
-        <Header />
-            
-        <ul className="nav bg-dark text-light">
-            <li className="nav-link">
-                <a href="#home">Home</a>
-            </li>
-            <li className="nav-link">
-                <a href="#projects">Projects</a>
-            </li>
-            <li className="nav-link">
-                <a href="#contact">Contact Me</a>
-            </li>
-        </ul>
-        
-        <Home />
-      
-      </div>
-    )
+
+export default function Nav({ changePage }) {
+  return (
+    <ul className="nav dark">
+      <li className="nav-item">
+        <a href="#home" onClick= { () => changePage('Home') } className="nav-link" >
+          Home
+        </a>
+      </li>
+      <li className="nav-item">
+        <a href="#projects" onClick= { () => changePage('Projects') } className="nav-link">
+          Projects
+        </a>
+      </li>
+      <li className="nav-item">
+        <a href="#contact" onClick= { () => changePage('Contact') } className="nav-link">
+          Contact Me
+        </a>
+      </li>
+    </ul>
+  );
 }
-
-export default Nav;

@@ -1,10 +1,11 @@
 import React from 'react';
-
+import Self from '../images/self.jpg'
 
 function Home() {
     return (
 
     <div>
+        <img src={Self} alt="Portrait of Myself"/>
         <h2>About Me</h2>
         <p>My name is Millard Chambers and I'm an apsiring Software Developer.</p>
         <p>I grew up all around the San Francisco Bay Area, exposing me to cultures and ways of life as varied as the people that people that make the Bay Area what it is.</p>
