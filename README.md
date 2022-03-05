@@ -6,25 +6,19 @@ The styling was thanks to Bootstrap a popular CSS framework I'm fond of.
 
 I prefer a minimalist design that gets straight to the point though I may reconsider in the future as I'm still fond of my original portfolio's design. As of now, the color serves only to differentiate the elements on the page albeit tastefully.
 
-Link: https://mchambersiv.github.io/professional-portfolio-v3/
+Link: https://mchambersiv.github.io/portfolio-v4-react/
 
 
 
-## Mobile Screenshots
-This is the page at load on mobile
-![Mobile page on load](./assets/img/mobile1.png "First Image of Mobile Page")
+## ScreenShots
+This is the page on load.
+![Home Page](./RMimg/1.png  "Home Page")
 
-These are the projects as they appear on mobile.
-![Mobile Project Cards](./assets/img/mobile2.png "Mobile Project Cards")
+This the Projects Page
+![Project Page](./RMimg/2.png "Project Page")
 
-Lastly, the bottom of the page.
-![Mobile Page End](./assets/img/mobile3.png "End of Mobile Page")
+This is the Contact Me Page
+![Contact Page](./RMimg/3.png  "Contact Page")
 
-
-## Desktop Screenshots
-
-The page on load on a Desktop
-![Desktop page on load](./assets/img/desktop1.png "First Image of Desktop")
-
-The bottom of the page
-![Bottom on the page](./assets/img/desktop2.png "Second Image of Desktop")
+Lastly, this is the Resume Page.
+![Resume Page](./RMimg/4.png "Resume Page")
