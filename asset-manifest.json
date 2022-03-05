@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/portfolio-react-v4/static/css/main.1a8a0596.css",
+    "main.js": "/portfolio-react-v4/static/js/main.efd9554a.js",
+    "static/media/PerfectCup.png": "/portfolio-react-v4/static/media/PerfectCup.c9531a98bc0bf2ba9721.png",
+    "static/media/ws1.jpg": "/portfolio-react-v4/static/media/ws1.67d1107c8b06d8f0cff1.jpg",
+    "static/media/SoundLane.png": "/portfolio-react-v4/static/media/SoundLane.2516474c9346faf2cef5.png",
+    "static/media/WeatherDashboard.png": "/portfolio-react-v4/static/media/WeatherDashboard.78015c80fa3109fc0794.png",
+    "static/media/frfr.png": "/portfolio-react-v4/static/media/frfr.6e4e1c8ce28f70af8c2b.png",
+    "static/media/self.jpg": "/portfolio-react-v4/static/media/self.1ef9b3fbdecdff0b0d38.jpg",
+    "static/media/start.png": "/portfolio-react-v4/static/media/start.23ed8a28fd21e9a9d3d3.png",
+    "index.html": "/portfolio-react-v4/index.html",
+    "main.1a8a0596.css.map": "/portfolio-react-v4/static/css/main.1a8a0596.css.map",
+    "main.efd9554a.js.map": "/portfolio-react-v4/static/js/main.efd9554a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1a8a0596.css",
+    "static/js/main.efd9554a.js"
+  ]
+}
