@@ -1,5 +1,4 @@
-# Portfolio-V4-React
-
+# Portfolio in React
 This is my fourth take on a professional portfolio, the site has a handful of the projects I've worked on that I'm proud of along with links to my linkedIn page, GitHub and Resume pdf. More than that the site is built using React, a JavaScript library I've been learning and this seemed the best way to showcase what I've honed.
 
 The styling was thanks to Bootstrap a popular CSS framework I'm fond of.
