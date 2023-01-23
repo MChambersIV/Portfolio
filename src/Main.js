@@ -27,7 +27,7 @@ export default function Main() {
   const changePage = (page) => setCurrentPage(page);
   
   return (
-    <div className="bg-dark text-light">
+    <div className="bg-light text-dark">
       <div>
         <Header />
       </div>
