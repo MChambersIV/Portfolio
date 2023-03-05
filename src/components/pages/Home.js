@@ -5,7 +5,7 @@ function Home() {
     return (
 
     <div>
-        <p> Welcome! </p>
+        <p class="text-justify"> Welcome! </p>
     </div>
     )
 }
