@@ -6,6 +6,7 @@ import Contact from './components/pages/Contact';
 import Projects from './components/pages/Projects';
 import Resume from './components/pages/Resume';
 import Home from './components/pages/Home';
+import About from './components/pages/About';
 
 
 export default function Main() {
@@ -15,6 +16,8 @@ export default function Main() {
    const renderPage = () => {
     if (currentPage === 'Home') {
       return <Home />;
+    } if (currentPage === 'About') {
+      return <About />;
     } if (currentPage === 'Contact') {
       return <Contact />;
     } if (currentPage === 'Projects') {
