@@ -3,7 +3,7 @@ import React from 'react';
 
 export default function Nav({ changePage }) {
   return (
-    <ul className="nav dark">
+    <ul className="nav dark center">
       <li className="nav-item">
         <a href="#home" onClick= { () => changePage('Home') } className="nav-link" >
           Home
