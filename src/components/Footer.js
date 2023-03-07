@@ -2,9 +2,7 @@ import React from "react";
 
 function Footer() {
     return (
-        <div className="nav dark">
-        
-          <div className="nav-active">Find Me On :</div>
+        <div className="nav justify-content-center">
           
           <a className="nav-link" href="https://linkedin.com/in/millard-chambers">LinkedIn</a>
           
