@@ -2,9 +2,9 @@ import React from "react";
 
 function Resume() {
     return (
-        <div className="bg-dark text-light">
+        <div className="text">
          
-          <p>I'm proficient in: </p>
+          <p>Proficiencies: </p>
         <ul>
             <li>
             HTML

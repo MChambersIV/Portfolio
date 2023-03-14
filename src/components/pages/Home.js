@@ -4,7 +4,7 @@ function Home() {
     return (
 
     <div>
-        <p class="text-center"> Welcome! </p>
+        <p class="text-center"> Welcome </p>
     </div>
     )
 }
