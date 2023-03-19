@@ -4,7 +4,7 @@ import Self from '../images/self.jpg'
 function About() {
     return (
     <div>   
-        <img src={Self} alt="Portrait of Myself"/> 
+        <img  style={{ width: "15%", height: "15%" }} src={Self} alt="Portrait of Myself"/> 
         <p>My name is Millard Chambers and I'm an apsiring Software Developer.</p>
         <p>I grew up all around the San Francisco Bay Area, exposing me to cultures and ways of life as varied as the people that people that make the Bay Area what it is.</p>
         <p>Of course the Bay Area isn't just a bountiful cultural center, or perhaps because it is so, it's home to the foremost high technology hub of the world.</p>
