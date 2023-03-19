@@ -23,11 +23,11 @@ export default function Main() {
       return <Resume />;
     }
   };
-  
+
   const changePage = (page) => setCurrentPage(page);
   
   return (
-    <div className="bg-light text-dark">
+    <div>
       <div>
         <Header />
       </div>
