@@ -6,7 +6,7 @@ const boxStyle = {
   borderRadius: "5px",
   borderWidth: "1px",
   borderColor: "orange",
-  margin: "10px"
+  margin: "10px",
 
 };
 
