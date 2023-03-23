@@ -3,7 +3,7 @@ import React from 'react';
 
 export default function Nav({ changePage }) {
   return (
-    <ul className="nav justify-content-center mr-1">
+    <ul className="nav justify-content-center mt-3">
       <li className="nav-item">
         <a href="#home" onClick= { () => changePage('Home') } className="nav-link text-warning border border-warning mx-1 rounded" >
           Home
