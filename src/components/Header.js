@@ -22,12 +22,29 @@ const ghostStyle = {
     opacity: "0"
 };
 
+const linkStyle = {
+    background: "black",
+};
+
 function Header() {
     return (
+    <div style={linkStyle}>
+       
        <div>
         <h1 className="title text-center row-start" style={headStyle}>Chambers</h1>
         <h1 className="title text-center row-start" style={ghostStyle}>Chambers</h1>
-       </div> 
+       </div>
+        
+        
+       <div className="nav justify-content-center">
+            <a className="nav-link text-white" href="https://linkedin.com/in/millard-chambers">LinkedIn</a>
+        
+            <a className="nav-link text-white" href="https://github.com/MChambersIV">GitHub</a>
+        
+            <a className="nav-link text-white" href="https://medium.com/@chambersm025">Medium</a>
+       </div>
+       
+    </div>
     )
 }
 
