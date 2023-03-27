@@ -9,6 +9,15 @@ import About from './components/pages/About';
 
 
 export default function Main() {
+
+  const conStyle = {
+    color: "white",
+    borderStyle: "solid",
+    borderRadius: "5px",
+    borderWidth: "1px",
+    borderColor: "white",
+    margin: "10px",
+  }
   
   const [currentPage, setCurrentPage] = useState('Home');
 
@@ -25,9 +34,13 @@ export default function Main() {
   };
 
   const changePage = (page) => setCurrentPage(page);
+
+  const mainStyle = {
+    height: "100vh",
+  };
   
   return (
-    <div>
+    <div className="bg-dark text-white" style={mainStyle}>
       <div>
         <Header />
       </div>

@@ -20,12 +20,12 @@ export default function Nav({ changePage }) {
         </a>
       </li>
       <li className="nav-item">
-        <a href="#about" onClick= { () => changePage('About') }className="nav-link" style={boxStyle}>
+        <a href="#about" onClick= { () => changePage('About') } className="nav-link" style={boxStyle}>
           About
         </a>
       </li>
       <li className="nav-item">
-        <a href="#projects" onClick= { () => changePage('Projects') } className="nav-link"  style={boxStyle}>
+        <a href="#projects" onClick= { () => changePage('Projects') } className="nav-link" style={boxStyle}>
           Projects
         </a>
       </li>
