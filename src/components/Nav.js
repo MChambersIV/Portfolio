@@ -1,11 +1,11 @@
 import React from 'react';
 
 const boxStyle = {
-  color: "orange",
+  color: "white",
   borderStyle: "solid",
   borderRadius: "5px",
-  borderWidth: "1px",
-  borderColor: "orange",
+  borderWidth: "3px",
+  borderColor: "white",
   margin: "10px",
 
 };
