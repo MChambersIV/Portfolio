@@ -36,7 +36,7 @@ export default function Main() {
   const changePage = (page) => setCurrentPage(page);
 
   const mainStyle = {
-    height: "100vh",
+    backgroundImage: "url(./components/images/railroad.jpg)",
   };
   
   return (
