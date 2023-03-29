@@ -38,7 +38,7 @@ function Projects() {
             <div className="card-body">
               <h5 className="card-title">TypeAway</h5>
               <p className="card-text">TypeAway is a simple text editor that remains fully functional while offline and my first foray into PWAs. </p>
-              <a href="https://sheltered-hamlet-90872.herokuapp.com/" class="btn btn-primary">Visit</a>
+              <a href="https://typeaway.onrender.com/" class="btn btn-primary">Visit</a>
               <a href="https://github.com/MChambersIV/TypeAway-TE" class="btn btn-success">GitHub</a>
             </div>
           </div>
