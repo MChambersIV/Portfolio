@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio-v4-react/static/css/main.1a8a0596.css",
-    "main.js": "/portfolio-v4-react/static/js/main.a34fef77.js",
+    "main.js": "/portfolio-v4-react/static/js/main.4fa8b60a.js",
     "static/media/PerfectCup.png": "/portfolio-v4-react/static/media/PerfectCup.c9531a98bc0bf2ba9721.png",
     "static/media/sf.gif": "/portfolio-v4-react/static/media/sf.0ebd33e14c8c0e0a2008.gif",
     "static/media/ws1.jpg": "/portfolio-v4-react/static/media/ws1.67d1107c8b06d8f0cff1.jpg",
@@ -10,13 +10,15 @@
     "static/media/frfr.png": "/portfolio-v4-react/static/media/frfr.6e4e1c8ce28f70af8c2b.png",
     "static/media/self.jpg": "/portfolio-v4-react/static/media/self.1ef9b3fbdecdff0b0d38.jpg",
     "static/media/ta1.png": "/portfolio-v4-react/static/media/ta1.1e5c6a342fb0449e44f4.png",
+    "static/media/medium.png": "/portfolio-v4-react/static/media/medium.28e3fc64da467df06e6d.png",
+    "static/media/linkedIn.png": "/portfolio-v4-react/static/media/linkedIn.ac689c2459a4b86a8566.png",
     "static/media/start.png": "/portfolio-v4-react/static/media/start.23ed8a28fd21e9a9d3d3.png",
     "index.html": "/portfolio-v4-react/index.html",
     "main.1a8a0596.css.map": "/portfolio-v4-react/static/css/main.1a8a0596.css.map",
-    "main.a34fef77.js.map": "/portfolio-v4-react/static/js/main.a34fef77.js.map"
+    "main.4fa8b60a.js.map": "/portfolio-v4-react/static/js/main.4fa8b60a.js.map"
   },
   "entrypoints": [
     "static/css/main.1a8a0596.css",
-    "static/js/main.a34fef77.js"
+    "static/js/main.4fa8b60a.js"
   ]
 }
