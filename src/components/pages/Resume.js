@@ -15,15 +15,16 @@ const boxStyle = {
 
 const listStyle = {
     display: "block",
-    marginLeft: "auto",
-    marginRight: "auto",
+    fontFamily: "Roboto",
+    marginLeft: "20%",
+    marginRight: "auto"
 
 };
 
 const titleStyle = {
     display: "block",
     fontFamily: "Roboto",
-    marginleft: "auto",
+    marginLeft: "10%",
     marginRight: "auto"
 
 };
