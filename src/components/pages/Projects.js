@@ -87,19 +87,6 @@ function Projects() {
       </div>
 
       <div className="card mb-3 bg-dark text-light">
-        <div className="row g-0">
-          <div className="col-md-4">
-            <img src={PerrilousQuestions} class="img-fluid rounded-start border border-white" alt="Weather Dashboard landing page"/>
-          </div>
-          <div className="col-md-8">
-            <div className="card-body">
-              <h5 className="card-title">PerrilousQuestions</h5>
-              <p className="card-text">This very simple quiz was my first foray into JavaScript and while it's a bit crude it shows how far I've come in a short amount of time. It has a particularly fun name too.</p>
-              <a href="https://mchambersiv.github.io/PerrilousQuestions-CQ-wAPI/" class="btn btn-primary">Visit</a>
-              <a href="https://github.com/MChambersIV/PerrilousQuestions-CQ-wAPI" class="btn btn-success">GitHub</a>
-            </div>
-          </div>
-        </div>
       </div>
 
       <div className="card mb-3 bg-dark text-light">
