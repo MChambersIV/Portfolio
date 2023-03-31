@@ -4,19 +4,22 @@ const boxStyle = {
     textDecoration: "none",
     color: "green",
     padding: "5px",
-    fontSize: "18px",
+    fontSize: "25px",
+    backgroundColor: "rgba(0, 255, 0, 0.3)",
     borderStyle: "solid",
     borderRadius: "1px",
     borderWidth: "2px",
     borderColor: "green",
     marginTop: "15px",
-    marginBottom: "15px"
+    marginBottom: "15px",
+    marginLeft: "10%",
+    marginRight: "auto",
 };
 
 const listStyle = {
     display: "block",
     fontFamily: "Roboto",
-    marginLeft: "20%",
+    marginLeft: "30%",
     marginRight: "auto"
 
 };
@@ -24,7 +27,7 @@ const listStyle = {
 const titleStyle = {
     display: "block",
     fontFamily: "Roboto",
-    marginLeft: "10%",
+    marginLeft: "20%",
     marginRight: "auto"
 
 };
