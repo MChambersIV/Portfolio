@@ -1,6 +1,7 @@
 import React from "react";
 
 const boxStyle = {
+    display: "block",
     color: "red",
     borderStyle: "solid",
     borderRadius: "1px",
