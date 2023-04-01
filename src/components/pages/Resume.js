@@ -36,16 +36,16 @@ function Resume() {
     return (
         <div>
          <div class="nav justify-content-center">
-         <a class="nav-item" style={boxStyle} href="https://drive.google.com/file/d/1zWUbt27l-IwGQGAYzvlKaHQCopJl1Und/view?usp=sharing">Resume</a>
+         <a class="nav-item" style={boxStyle} href="https://drive.google.com/file/d/1Kf5OQGbu3bLpuO5uvBDNNuUu4OA1_DX2/view?usp=sharing">Resume</a>
         </div>
          <div class="d-flex flex-column">
             <h3 style={titleStyle}>Languages:</h3>
             <p style={listStyle}>JavaScript</p>
-            <p style={listStyle}>React</p>
             <p style={listStyle}>CSS3</p>
             <p style={listStyle}>HTML</p>
             
             <h3 style={titleStyle}>Technologies:</h3>
+            <p style={listStyle}>React</p>
             <p style={listStyle}>Git</p>
             <p style={listStyle}>Node</p>
             <p style={listStyle}>BootStrap</p>

@@ -8,7 +8,7 @@ function Home() {
     return (
 
     <div>
-        <p class="text-center mt-5" style={introStyle}> Hello, my name is Millard Chambers and I seek to make the web more acessible and intuitive for everyone. </p>
+        <h4 class="text-center mt-5" style={introStyle}> Hello, my name is Millard Chambers and I seek to make the web more acessible and intuitive for everyone. </h4>
     </div>
     )
 }
