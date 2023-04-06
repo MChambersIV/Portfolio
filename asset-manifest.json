@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio-v4-react/static/css/main.1a8a0596.css",
-    "main.js": "/portfolio-v4-react/static/js/main.a099c4ce.js",
+    "main.js": "/portfolio-v4-react/static/js/main.944869ef.js",
     "static/media/PerfectCup.png": "/portfolio-v4-react/static/media/PerfectCup.c9531a98bc0bf2ba9721.png",
     "static/media/sf.gif": "/portfolio-v4-react/static/media/sf.0ebd33e14c8c0e0a2008.gif",
     "static/media/ws1.jpg": "/portfolio-v4-react/static/media/ws1.67d1107c8b06d8f0cff1.jpg",
@@ -15,10 +15,10 @@
     "static/media/start.png": "/portfolio-v4-react/static/media/start.23ed8a28fd21e9a9d3d3.png",
     "index.html": "/portfolio-v4-react/index.html",
     "main.1a8a0596.css.map": "/portfolio-v4-react/static/css/main.1a8a0596.css.map",
-    "main.a099c4ce.js.map": "/portfolio-v4-react/static/js/main.a099c4ce.js.map"
+    "main.944869ef.js.map": "/portfolio-v4-react/static/js/main.944869ef.js.map"
   },
   "entrypoints": [
     "static/css/main.1a8a0596.css",
-    "static/js/main.a099c4ce.js"
+    "static/js/main.944869ef.js"
   ]
 }
