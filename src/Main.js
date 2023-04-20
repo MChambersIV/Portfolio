@@ -37,6 +37,7 @@ export default function Main() {
 
   const mainStyle = {
     backgroundImage: "url(./components/images/railroad.jpg)",
+    height: "100vh"
   };
   
   return (

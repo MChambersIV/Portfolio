@@ -1,7 +1,7 @@
 import React from 'react';
 
 const introStyle = {
-    fontFamily: "Roboto"
+    fontFamily: "Roboto",
 }
 
 function Home() {
