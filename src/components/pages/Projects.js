@@ -1,13 +1,10 @@
 import React from "react";
 
 import SoundLane from '../images/SoundLane.png';
-import PerfectCup from '../images/PerfectCup.png';
 import WeatherDashboard from '../images/WeatherDashboard.png';
 import FriendlyFriend from '../images/frfr.png';
-import PerrilousQuestions from '../images/start.png';
 import PlanAway from '../images/ws1.jpg';
 import TypeAway from '../images/ta1.png';
-import StoryFactory from '../images/sf.gif';
 
 function Projects() {
     return (
