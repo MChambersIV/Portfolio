@@ -36,7 +36,7 @@ function Resume() {
     return (
         <div>
          <div class="nav justify-content-center">
-         <a class="nav-item" style={boxStyle} href="https://drive.google.com/file/d/1Kf5OQGbu3bLpuO5uvBDNNuUu4OA1_DX2/view">Resume</a>
+         <a class="nav-item" style={boxStyle} href="https://docs.google.com/document/d/1wCt68sv_LD3ORe2klYvAYx3lMJe0QbfIMCR4VNrT5Xw/edit?usp=sharing">Resume</a>
         </div>
          <div class="d-flex flex-column">
             <h3 style={titleStyle}>Languages:</h3>
