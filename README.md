@@ -5,7 +5,7 @@ The styling was thanks to Bootstrap a popular CSS framework I'm fond of.
 
 I prefer a minimalist design that gets straight to the point though I may reconsider in the future as I'm still fond of my original portfolio's design. As of now, the color serves only to differentiate the elements on the page albeit tastefully.
 
-Link: https://mchambersiv.github.io/portfolio-v4-react/
+Link: https://mchambersiv.github.io/portfolio/
 
 
 
@@ -15,9 +15,6 @@ This is the page on load.
 
 This the Projects Page
 ![Project Page](./RMimg/2.png "Project Page")
-
-This is the Contact Me Page
-![Contact Page](./RMimg/3.png  "Contact Page")
 
 Lastly, this is the Resume Page.
 ![Resume Page](./RMimg/4.png "Resume Page")
