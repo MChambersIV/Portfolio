@@ -1,24 +1,21 @@
 {
   "files": {
-    "main.css": "/portfolio-v4-react/static/css/main.1a8a0596.css",
-    "main.js": "/portfolio-v4-react/static/js/main.e3b02c69.js",
-    "static/media/PerfectCup.png": "/portfolio-v4-react/static/media/PerfectCup.c9531a98bc0bf2ba9721.png",
-    "static/media/sf.gif": "/portfolio-v4-react/static/media/sf.0ebd33e14c8c0e0a2008.gif",
-    "static/media/ws1.jpg": "/portfolio-v4-react/static/media/ws1.67d1107c8b06d8f0cff1.jpg",
-    "static/media/SoundLane.png": "/portfolio-v4-react/static/media/SoundLane.2516474c9346faf2cef5.png",
-    "static/media/WeatherDashboard.png": "/portfolio-v4-react/static/media/WeatherDashboard.78015c80fa3109fc0794.png",
-    "static/media/frfr.png": "/portfolio-v4-react/static/media/frfr.6e4e1c8ce28f70af8c2b.png",
-    "static/media/self.jpg": "/portfolio-v4-react/static/media/self.1ef9b3fbdecdff0b0d38.jpg",
-    "static/media/ta1.png": "/portfolio-v4-react/static/media/ta1.1e5c6a342fb0449e44f4.png",
-    "static/media/medium.png": "/portfolio-v4-react/static/media/medium.28e3fc64da467df06e6d.png",
-    "static/media/linkedIn.png": "/portfolio-v4-react/static/media/linkedIn.ac689c2459a4b86a8566.png",
-    "static/media/start.png": "/portfolio-v4-react/static/media/start.23ed8a28fd21e9a9d3d3.png",
-    "index.html": "/portfolio-v4-react/index.html",
-    "main.1a8a0596.css.map": "/portfolio-v4-react/static/css/main.1a8a0596.css.map",
-    "main.e3b02c69.js.map": "/portfolio-v4-react/static/js/main.e3b02c69.js.map"
+    "main.css": "/portfolio/static/css/main.1a8a0596.css",
+    "main.js": "/portfolio/static/js/main.58b30cc7.js",
+    "static/media/ws1.jpg": "/portfolio/static/media/ws1.67d1107c8b06d8f0cff1.jpg",
+    "static/media/SoundLane.png": "/portfolio/static/media/SoundLane.2516474c9346faf2cef5.png",
+    "static/media/WeatherDashboard.png": "/portfolio/static/media/WeatherDashboard.78015c80fa3109fc0794.png",
+    "static/media/frfr.png": "/portfolio/static/media/frfr.6e4e1c8ce28f70af8c2b.png",
+    "static/media/self.jpg": "/portfolio/static/media/self.1ef9b3fbdecdff0b0d38.jpg",
+    "static/media/ta1.png": "/portfolio/static/media/ta1.1e5c6a342fb0449e44f4.png",
+    "static/media/medium.png": "/portfolio/static/media/medium.28e3fc64da467df06e6d.png",
+    "static/media/linkedIn.png": "/portfolio/static/media/linkedIn.ac689c2459a4b86a8566.png",
+    "index.html": "/portfolio/index.html",
+    "main.1a8a0596.css.map": "/portfolio/static/css/main.1a8a0596.css.map",
+    "main.58b30cc7.js.map": "/portfolio/static/js/main.58b30cc7.js.map"
   },
   "entrypoints": [
     "static/css/main.1a8a0596.css",
-    "static/js/main.e3b02c69.js"
+    "static/js/main.58b30cc7.js"
   ]
 }
