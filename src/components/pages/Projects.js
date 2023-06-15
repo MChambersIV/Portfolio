@@ -76,7 +76,6 @@ function Projects() {
             <div className="card-body">
               <h5 className="card-title">Friendly Friend</h5>
               <p className="card-text">This is an API for the backend of a Social Network. As it is just an API it requires a tool to test the routes that interact with the database.</p>
-              <a href="https://watch.screencastify.com/v/dnU3Hdek4wUWkbjCO9QZ" class="btn btn-warning">Walkthrough</a>
               <a href="https://github.com/MChambersIV/FriendlyFriend-Social-Network-API" class="btn btn-success">GitHub</a>
             </div>
           </div>
